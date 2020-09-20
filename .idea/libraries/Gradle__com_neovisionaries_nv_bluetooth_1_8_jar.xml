@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.neovisionaries:nv-bluetooth:1.8@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neovisionaries/nv-bluetooth/1.8/714e2e18d44612760a7796051b9e3c4a5f963902/nv-bluetooth-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neovisionaries/nv-bluetooth/1.8/ff0a48c5d9f3b1259c04121ab3c928c801a3718e/nv-bluetooth-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neovisionaries/nv-bluetooth/1.8/23e017ccf50c3c96e4b50b2de2f66ba5a486e147/nv-bluetooth-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
